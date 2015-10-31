@@ -1,0 +1,9 @@
+Part 2:
+  1) 1/110ns = 9.09MHz
+  2) 1/60ns = 16.6MHz
+
+Part 3:
+  1) OPCODE
+  2) I-type instruction, represents branching
+  3) R-type instructions
+  4) sw and lw.
